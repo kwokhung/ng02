@@ -23,5 +23,3 @@ npx cap init
 npx cap init ng02 com.mblinus.test
 npx cap add android
 npx cap open android
-
-test
